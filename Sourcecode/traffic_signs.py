@@ -210,3 +210,7 @@ pred = model.predict_classes(X_test)
 
 from sklearn.metrics import accuracy_score
 print(accuracy_score(labels, pred))
+
+"""**Base code was used as a learning tool and was sourced from**  
+https://data-flair.training/blogs/python-project-traffic-signs-recognition/
+"""
